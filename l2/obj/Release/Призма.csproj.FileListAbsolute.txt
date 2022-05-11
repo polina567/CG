@@ -1,0 +1,9 @@
+C:\Users\imd\Desktop\вуз\компграф\Prism\Prism\bin\Release\Цилиндр.exe.config
+C:\Users\imd\Desktop\вуз\компграф\Prism\Prism\bin\Release\Цилиндр.exe
+C:\Users\imd\Desktop\вуз\компграф\Prism\Prism\bin\Release\Цилиндр.pdb
+C:\Users\imd\Desktop\вуз\компграф\Prism\Prism\obj\Release\Призма.FormPrism.resources
+C:\Users\imd\Desktop\вуз\компграф\Prism\Prism\obj\Release\Цилиндр.Properties.Resources.resources
+C:\Users\imd\Desktop\вуз\компграф\Prism\Prism\obj\Release\Призма.csproj.GenerateResource.cache
+C:\Users\imd\Desktop\вуз\компграф\Prism\Prism\obj\Release\Призма.csproj.CoreCompileInputs.cache
+C:\Users\imd\Desktop\вуз\компграф\Prism\Prism\obj\Release\Цилиндр.exe
+C:\Users\imd\Desktop\вуз\компграф\Prism\Prism\obj\Release\Цилиндр.pdb

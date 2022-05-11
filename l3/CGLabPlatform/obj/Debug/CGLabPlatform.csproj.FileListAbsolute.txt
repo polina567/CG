@@ -1,0 +1,23 @@
+C:\Users\nikit\документы маишника\3_курс\CG\CGLabPlatform\bin\Debug\CGLabPlatform.dll
+C:\Users\nikit\документы маишника\3_курс\CG\CGLabPlatform\bin\Debug\CGLabPlatform.pdb
+C:\Users\nikit\документы маишника\3_курс\CG\CGLabPlatform\obj\Debug\CGLabPlatform.csprojAssemblyReference.cache
+C:\Users\nikit\документы маишника\3_курс\CG\CGLabPlatform\obj\Debug\CGLabPlatform.csproj.CoreCompileInputs.cache
+C:\Users\nikit\документы маишника\3_курс\CG\CGLabPlatform\obj\Debug\CGLabPlatform.dll
+C:\Users\nikit\документы маишника\3_курс\CG\CGLabPlatform\obj\Debug\CGLabPlatform.pdb
+C:\Users\nikit\документы маишника\CG\CGLabPlatform\bin\Debug\CGLabPlatform.dll
+C:\Users\nikit\документы маишника\CG\CGLabPlatform\bin\Debug\CGLabPlatform.pdb
+C:\Users\nikit\документы маишника\CG\CGLabPlatform\obj\Debug\CGLabPlatform.csproj.CoreCompileInputs.cache
+C:\Users\nikit\документы маишника\CG\CGLabPlatform\obj\Debug\CGLabPlatform.dll
+C:\Users\nikit\документы маишника\CG\CGLabPlatform\obj\Debug\CGLabPlatform.pdb
+C:\Users\nikit\документы маишника\CG\CGLabPlatform\obj\Debug\CGLabPlatform.csprojAssemblyReference.cache
+C:\Users\imd\Desktop\302_Devyatikh_N.S. LR3_V2\CGLabPlatform\bin\Debug\CGLabPlatform.dll
+C:\Users\imd\Desktop\302_Devyatikh_N.S. LR3_V2\CGLabPlatform\bin\Debug\CGLabPlatform.pdb
+C:\Users\imd\Desktop\302_Devyatikh_N.S. LR3_V2\CGLabPlatform\obj\Debug\CGLabPlatform.csprojAssemblyReference.cache
+C:\Users\imd\Desktop\302_Devyatikh_N.S. LR3_V2\CGLabPlatform\obj\Debug\CGLabPlatform.csproj.CoreCompileInputs.cache
+C:\Users\imd\Desktop\302_Devyatikh_N.S. LR3_V2\CGLabPlatform\obj\Debug\CGLabPlatform.dll
+C:\Users\imd\Desktop\302_Devyatikh_N.S. LR3_V2\CGLabPlatform\obj\Debug\CGLabPlatform.pdb
+C:\Users\Admin\Desktop\важное\КГ\lr\l3\CGLabPlatform\bin\Debug\CGLabPlatform.dll
+C:\Users\Admin\Desktop\важное\КГ\lr\l3\CGLabPlatform\bin\Debug\CGLabPlatform.pdb
+C:\Users\Admin\Desktop\важное\КГ\lr\l3\CGLabPlatform\obj\Debug\CGLabPlatform.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\важное\КГ\lr\l3\CGLabPlatform\obj\Debug\CGLabPlatform.dll
+C:\Users\Admin\Desktop\важное\КГ\lr\l3\CGLabPlatform\obj\Debug\CGLabPlatform.pdb
